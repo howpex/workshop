@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../To2rent"
+		},
+		{
+			"path": "../Tesla"
+		},
+		{
+			"path": "../AVTR"
+		},
+		{
+			"path": "../Space"
+		},
+		{
+			"path": "../Restoran"
+		},
+		{
+			"path": "../Car Repair"
+		},
+		{
+			"path": "../web-max"
+		},
+		{
+			"path": "../Xiaomi"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Workshop"
+	}
+}
